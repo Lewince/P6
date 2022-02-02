@@ -4,4 +4,4 @@
 - Modélisation de topic type LDA (+ visualisation pyLDAvis)
 - Essais en supervisé sur images : pré-Traitement manuel + classifier 
 - Essais en non-supervisé sur images : pré-traitement auto + CNN (headless keras vgg16) + clustering
-- Webpage generated using Voilà
+- Page web générée à partir du notebook grâce à Voilà
